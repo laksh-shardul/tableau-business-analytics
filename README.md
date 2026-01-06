@@ -31,7 +31,7 @@ Designed an interactive dashboard allowing HR Business Partners (HRBPs) to explo
 This dashboard focuses on exploratory workforce analytics and interaction design. It is intended to surface patterns and areas of interest rather than serve as a predictive attrition model.
 
 <div align="center">
-  <img src="hr-dashboard/screenshots/hr_dashboard_overview.png" alt="HR Dashboard Preview" width="800"/>
+  <img src="screenshots/hr_dashboard_overview.png" alt="HR Dashboard Preview" width="800"/>
   
   **[🔴 View Interactive Dashboard on Tableau Public] https://public.tableau.com/views/HRDashboard_17676890449090/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 </div>
@@ -57,7 +57,7 @@ A suite of parameterized dashboards focused on **Year-over-Year (YoY) comparison
 * Identified concentration of revenue and profit among a limited subset of customers, supporting prioritization discussions.
 
 <div align="center">
-  <img src="sales-customer-dashboards/screenshots/sales_dashboard_overview.png.png" alt="Sales Dashboard Preview" width="800"/>
+  <img src="screenshots/sales_dashboard_overview.png" alt="Sales Dashboard Preview" width="800"/>
   
   **[🔵 View Interactive Dashboard on Tableau Public] https://public.tableau.com/views/SalesCustomerDashboards_17676885678350/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 </div>
