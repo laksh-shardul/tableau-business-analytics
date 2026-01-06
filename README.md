@@ -57,7 +57,7 @@ A suite of parameterized dashboards focused on **Year-over-Year (YoY) comparison
 * Identified concentration of revenue and profit among a limited subset of customers, supporting prioritization discussions.
 
 <div align="center">
-  <img src="sales-customer-dashboards/screenshots/sales_dashboard_overview.png" alt="Sales Dashboard Preview" width="800"/>
+  <img src="sales-customer-dashboards/screenshots/sales_dashboard_overview.png.png" alt="Sales Dashboard Preview" width="800"/>
   
   **[🔵 View Interactive Dashboard on Tableau Public] https://public.tableau.com/views/SalesCustomerDashboards_17676885678350/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 </div>
