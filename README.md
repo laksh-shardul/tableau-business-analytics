@@ -64,6 +64,15 @@ A suite of parameterized dashboards focused on **Year-over-Year (YoY) comparison
 
 ---
 
+## 🧰 Technical Stack & Toolkit
+
+| Category | Tools & Skills |
+| :--- | :--- |
+| **Visualization** | **Tableau Desktop / Tableau Public** (Parameters, Dashboard Actions, Interactive Filtering) |
+| **Data Engineering** | **Python (Pandas, Faker)** for synthetic data generation; **Excel** for data validation |
+
+---
+
 ## 🚀 How to Run
 These dashboards are packaged as `.twbx` (Tableau Packaged Workbook) files.
 
